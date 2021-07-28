@@ -22,7 +22,7 @@ Why you may ask? Because my quest to becoming a competent Android Development is
 My pages hold a bit of everything since there is more to my life than Android Development.
 ✨ :balloon: ✨
 
--[YouTube Channel](https://www.youtube.com/channel/UC_ueCpZu--8fHGV-wpOSMEA)
+-[YouTube Channel](https://m.youtube.com/channel/UC_ueCpZu--8fHGV-wpOSMEA/playlists)
 
 -[My Apps on G-Play](https://play.google.com/store/apps/developer?id=uFo)
 
