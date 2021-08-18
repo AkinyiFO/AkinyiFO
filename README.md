@@ -4,7 +4,7 @@ I am Fridah Akinyi Odhiambo, an Android Developer. Somehow in this road called l
 ✨ :balloon: ✨
 - 🔭 I’m currently working on developing Android Apps in Kotlin.
 
-- 🌱 I’m currently learning Java Spring Boot Web Application.
+- 🌱 I’m currently learning Java Spring Boot Web Application Development.
 
 - 👯 I’m looking to collaborate on Android Development in Kotlin and Java Web Application Tutorials.
 
