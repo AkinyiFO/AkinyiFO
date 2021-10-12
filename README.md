@@ -18,8 +18,8 @@ I am Fridah Akinyi Odhiambo, an Android Developer. Somehow in this road called l
 - :zap:Fun fact: Your mental health is important :thought_balloon:
 ### Social Network Presence 
 Mainly known as Android Grail in all my social media channels.
-Why you may ask? Because my quest to becoming a competent Android Development is what inspired all of the handles.
-My pages hold a bit of everything since there is more to my life than Android Development.
+Why you may ask? Keep Guessing :wink: .
+Anyways, my pages hold a bit of everything since there is more to my life than being a developer.
 ✨ :balloon: ✨
 
 -[YouTube Channel](https://m.youtube.com/channel/UC_ueCpZu--8fHGV-wpOSMEA/playlists)
