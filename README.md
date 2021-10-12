@@ -1,5 +1,5 @@
 ### Hey visitor 👋 
-I am Fridah Akinyi Odhiambo, an Android Developer. Somehow in this road called life, I found my way to Android Development, or Android Development made its way to me. Whichever the case, I am here now and it has felt right from the very start.
+I am Fridah Akinyi Odhiambo, an Android and Java Developer. Somehow in this road called life, I found my way to it or it made its way to me. Whichever the case, I am here now.
 
 ✨ :balloon: ✨
 - 🔭 I’m currently working on developing Android Apps in Kotlin.
@@ -10,15 +10,15 @@ I am Fridah Akinyi Odhiambo, an Android Developer. Somehow in this road called l
 
 - 🤔 I’m looking for help with Advanced Spring Boot Web Applications.
 
-- 💬 Ask me about Modern Android and Java Development.
+- 💬 Ask me about Android and Java Development.
 
 - 📫 How to reach me: simpleapps22@gmail.com
 
 - 😄 Pronouns: She/ her
 - :zap:Fun fact: Your mental health is important :thought_balloon:
 ### Social Network Presence 
-Mainly known as Android Grail in all my social media channels.
-Why you may ask? Keep Guessing :wink: .
+Find me as Android Grail in all my social media channels.
+Why Android Grail, you may ask? Keep Guessing :wink: .
 Anyways, my pages hold a bit of everything since there is more to my life than being a developer.
 ✨ :balloon: ✨
 
