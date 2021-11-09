@@ -4,13 +4,13 @@ I am Fridah Akinyi Odhiambo, an Android and Java Developer. Somehow in this road
 ✨ :balloon: ✨
 - 🔭 I’m currently working on developing Android Apps in Kotlin.
 
-- 🌱 I’m currently learning AWS Amplify for Android Apps.
+- 🌱 I’m currently learning Jetpack Compose.
 
-- 👯 I’m looking to collaborate on Android Development in Kotlin and Java Web Application Tutorials.
+- 👯 I’m looking to collaborate on Android Development in Kotlin, Jetpack Compose, and Java Web Application Tutorials.
 
-- 🤔 I’m looking for help with Advanced Spring Boot Web Applications.
+- 🤔 I’m looking for help with Advanced Spring Boot Web Applications & AWS Amplify for Android App Development.
 
-- 💬 Ask me about Android and Java Development.
+- 💬 Ask me about Android Development.
 
 - 📫 How to reach me: simpleapps22@gmail.com
 
