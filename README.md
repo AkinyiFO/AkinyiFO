@@ -26,7 +26,7 @@ Anyways, my pages hold a bit of everything since there is more to my life than b
 
 -[My Apps on G-Play](https://play.google.com/store/apps/developer?id=uFo)
 
--[Google Developer Profile](g.dev/AkinyiFO)
+-[Google Developer Profile](https://g.dev/AkinyiFO)
 
 -[Twitter](https://twitter.com/androidgrail/)
 
