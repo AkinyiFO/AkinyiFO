@@ -4,11 +4,11 @@ I am Fridah Akinyi Odhiambo, an Android and Java Developer. Somehow in this road
 ✨ :balloon: ✨
 - 🔭 I’m currently working on **keeping up with** developing Android Apps in Kotlin and Spring Boot.
 
-- 🌱 I’m currently learning Jetpack Compose.
+- 🌱 I’m currently learning Jetpack Compose and AWS Cloud Architecture.
 
-- 👯 I’m looking to collaborate on Android Development in Kotlin, Jetpack Compose, and Java Web Application Tutorials.
+- 👯 I’m looking to collaborate on Android Development in Kotlin.
 
-- 🤔 I’m looking for help with AWS Amplify for Android App Development.
+- 🤔 I’m looking for help with Spring Boot Web Apps.
 
 - 💬 Ask me about Android Development in Kotlin.
 
