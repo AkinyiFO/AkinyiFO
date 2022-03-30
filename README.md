@@ -2,15 +2,15 @@
 I am Fridah Akinyi Odhiambo, an Android and Java Developer. Somehow in this road called life, I found my way to it or it made its way to me. Whichever the case, I am here now.
 
 ✨ :balloon: ✨
-- 🔭 I’m currently working on **keeping up with** developing Android Apps in Kotlin and Spring Boot.
+- 🔭 I’m currently working on **keeping up with** developing Android Apps in Kotlin.
 
-- 🌱 I’m currently learning AWS Solutions Architect Associate.
+- 🌱 I’m currently learning how to be an AWS Authorized Instructor.
 
 - 👯 I’m looking to collaborate on Android Development in Kotlin.
 
 - 🤔 I’m looking for help with Spring Boot Web Apps.
 
-- 💬 Ask me about Android Development in Kotlin.
+- 💬 Ask me about Android Development in Kotlin and AWS Solutions Architect Associate Certification.
 
 - 📫 How to reach me: simpleapps22@gmail.com
 
