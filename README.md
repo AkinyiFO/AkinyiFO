@@ -1,10 +1,10 @@
 ### This update is long overdue. Hello! Nice seeing you here! 👋 
-I am Fridah Akinyi Odhiambo. From an Electrical and Communications Engineering graduate, to an Android Developer/Trainer and finally to the AWS Authorised Instructor that I am now. I am just laying it all out here to assure you beyond reasonable doubt that there is a high probability that the next time you are back here, I could be something else that is even more amazing than the last.
+I am Fridah Akinyi Odhiambo. From an Electrical and Communications Engineering graduate to an Android Developer/Trainer and finally to the AWS Authorised Instructor that I am now. I am just laying it all out here to assure you beyond reasonable doubt that there is a high probability that the next time you are back here, I could be something else that is even more amazing than the last.
 
 ✨ :balloon: ✨
 - 🔭 I’m currently working on getting more **AWS Certifications**.
 
-- 🌱 I’m currently learning how to be an **AWS Authorized Instructor**.
+- 🌱 I am learning how to be an **AWS Developer Associate**.
 
 - 👯 I’m looking to collaborate on **AWS Discussions**.
 
