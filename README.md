@@ -1,25 +1,19 @@
-### Hey visitor 👋 
-I am Fridah Akinyi Odhiambo, an Android and Java Developer. Somehow in this road called life, I found my way to it or it made its way to me. Whichever the case, I am here now.
+### This update is long overdue. Hello! Nice seeing you here! 👋 
+I am Fridah Akinyi Odhiambo. From an Electrical and Communications Engineering graduate, to an Android Developer/Trainer and finally to the AWS Authorised Instructor that I am now. I am just laying it all out here to assure you beyond reasonable doubt that there is a high probability that the next time you are back here, I could be something else that is even more amazing than the last.
 
 ✨ :balloon: ✨
-- 🔭 I’m currently working on **keeping up with** developing Android Apps in Kotlin.
+- 🔭 I’m currently working on getting more **AWS Certifications**.
 
 - 🌱 I’m currently learning how to be an **AWS Authorized Instructor**.
 
-- 👯 I’m looking to collaborate on **Android Development in Kotlin**.
+- 👯 I’m looking to collaborate on **AWS Discussions**.
 
-- 🤔 I’m looking for help with *Spring Boot Web Apps.
+- 💬 Ask me about **AWS**.
 
-- 💬 Ask me about **Android Development in Kotlin** and **AWS Solutions Architect Associate Certification**.
-
-- 📫 How to reach me: *simpleapps22@gmail.com
-
-- 😄 Pronouns: She/ her
-- :zap:Fun fact: Your mental health is important :thought_balloon:
+- :zap:Fun fact: Your mental STRENGTH is VITAL :thought_balloon:
 ### Social Network Presence 
 Find me as Android Grail in all my social media channels.
-Why Android Grail, you may ask? Keep Guessing :wink: .
-Anyways, my pages hold a bit of everything since there is more to my life than being a developer.
+Started the freelance journey with Android so let us maintain that.
 ✨ :balloon: ✨
 
 -[YouTube Channel](https://m.youtube.com/channel/UC_ueCpZu--8fHGV-wpOSMEA/playlists)
@@ -27,8 +21,6 @@ Anyways, my pages hold a bit of everything since there is more to my life than b
 -[My Apps on G-Play](https://play.google.com/store/apps/developer?id=uFo)
 
 -[Google Developer Profile](https://g.dev/AkinyiFO)
-
--[Twitter](https://twitter.com/androidgrail/)
 
 -[Instagram](https://www.instagram.com/androidgrail/)
 
