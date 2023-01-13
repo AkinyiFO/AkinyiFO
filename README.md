@@ -4,7 +4,7 @@ I am Fridah Akinyi Odhiambo. From an Electrical and Communications Engineering g
 ✨ :balloon: ✨
 - 🔭 I’m currently working on getting more **AWS Certifications**.
 
-- 🌱 I am learning how to be an **AWS Developer Associate**.
+- 🌱 I am learning how to be an **AWS Certified Sysops Administrator - Associate**.
 
 - 👯 I’m looking to collaborate on **AWS Discussions**.
 
