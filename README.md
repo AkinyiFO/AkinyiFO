@@ -6,7 +6,7 @@ I am Fridah Akinyi Odhiambo. Professionally, I moved from being an Electrical an
 
 - 🌱 I am learning how to be an **AWS Solutions Architect - Professional**.
 
-- 👯 I’m looking to collaborate on **AWS Solutions Architect - Associate, AWS Developer - Associate*, AWS Certified SysOps Administrator – Associate** and **Android Development** discussions.
+- 👯 I’m looking to collaborate on **AWS Solutions Architect - Associate, AWS Developer - Associate, AWS Certified SysOps Administrator – Associate** and **Android Development** discussions.
 
 - 💬 Ask me about **AWS** and **Android Development**, though I am yet to catch up on Android Dev for the past year.
 
