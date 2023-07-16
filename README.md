@@ -4,16 +4,16 @@ I am Fridah Akinyi Odhiambo. Professionally, I moved from being an Electrical an
 ✨ :balloon: ✨
 - 🔭 I’m currently working on getting more **AWS Certifications**.
 
-- 🌱 I am learning how to be an **AWS Solutions Architect - Professional**.
+- 🌱 I am learning how to be an **AWS Certified DevOps Engineer - Professional**.
 
-- 👯 I’m looking to collaborate on **AWS Solutions Architect - Associate, AWS Developer - Associate, AWS Certified SysOps Administrator – Associate** and **Android Development** discussions.
+- 👯 I’m looking to collaborate on **AWS Solutions Architect, AWS Developer - Associate, AWS Certified SysOps Administrator – Associate** and **Android Development** discussions.
 
 - 💬 Ask me about **AWS** and **Android Development**, though I am yet to catch up on Android Dev for the past year.
 
 - :zap:Fun fact: Your "god" is in your brain :thought_balloon:
 ### Social Network Presence 
 Find me as Android Grail in all my social media channels.
-Started the freelance journey with Android so let us maintain that.
+Started the freelance journey with Android so let us maintain that name.
 ✨ :balloon: ✨
 
 -[My Apps on G-Play](https://play.google.com/store/apps/developer?id=uFo)
