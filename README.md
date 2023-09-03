@@ -1,5 +1,5 @@
 ### This update is long overdue. Hello! Nice seeing you here! 👋 
-I am Fridah Akinyi Odhiambo. Professionally, I moved from being an Electrical and Communications Engineering graduate to an Android Developer/Trainer and finally to the AWS Authorised Instructor that I am now. I am just laying it all out here to assure you beyond reasonable doubt that there is a high probability that the next time you are back here, I could be something else that is even more amazing than the last.
+I am Fridah Akinyi Odhiambo. Professionally, I moved from being an Electrical and Communications Engineering graduate to an Android Developer/Trainer and finally to the AWS Champion - Authorised Instructor that I am now. I am just laying it all out here to assure you beyond reasonable doubt that there is a high probability that the next time you are back here, I could be something else that is even more amazing than the last.
 
 ✨ :balloon: ✨
 - 🔭 I’m currently working on getting more **Google Cloud Certifications**.
