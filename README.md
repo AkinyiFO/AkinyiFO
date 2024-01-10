@@ -8,7 +8,7 @@ I am Fridah Akinyi Odhiambo. Professionally, I moved from being an Electrical an
 
 - 👯 I’m looking to collaborate on **AWS Certified Solutions Architect – Professional, AWS Certified DevOps Engineer – Professional** and **Android Development** discussions.
 
-- 💬 Ask me about **AWS** and **Android Development**, though I am yet to catch up on Android Dev for the past year.
+- 💬 Ask me about **AWS** and **Android Development**, though I am yet to catch up on Android Dev for the few years.
 
 - :zap:Fun fact: Your "god" is in your brain :thought_balloon:
 ### Social Network Presence 
