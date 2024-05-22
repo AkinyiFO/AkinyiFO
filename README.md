@@ -2,13 +2,13 @@
 I am Fridah Akinyi Odhiambo. Professionally, I moved from being an Electrical and Communications Engineering graduate to an Android Developer/Trainer and finally to the AWS Champion - Authorised Instructor that I am now. I am just laying it all out here to assure you beyond reasonable doubt that there is a high probability that the next time you are back here, I could be something else that is even more amazing than the last.
 
 ✨ :balloon: ✨
-- 🔭 I’m currently working on getting **Google Cloud Certifications**.
+- 🔭 I’m currently working on becoming a **Google Cloud Authorized Trainer**.
 
-- 🌱 I am learning how to be an **Google Cloud Authorized Trainer and Google Cloud Professional Cloud Architect**.
+- 🌱 I am learning how to **polish** my tech skills so far.
 
-- 👯 I’m looking to collaborate on **AWS Certified Solutions Architect – Professional, AWS Certified DevOps Engineer – Professional** and **Android Development** discussions.
+- 👯 I’m looking to collaborate on **AWS Certified Solutions Architect – Professional, AWS Certified DevOps Engineer – Professional, Google Cloud Professional Cloud Architect** and **Android Development** discussions.
 
-- 💬 Ask me about **AWS** and **Android Development**, though I am yet to catch up on Android Dev for the few years.
+- 💬 Ask me about **AWS, GCP** and **Android Development**, though I am yet to catch up on Android Dev for the few years.
 
 - :zap:Fun fact: Your "god" is in your brain :thought_balloon:
 ### Social Network Presence 
