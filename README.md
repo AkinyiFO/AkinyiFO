@@ -37,4 +37,7 @@ Started the freelance journey with Android so let us maintain that name.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akinyifo&show_icons=true&theme=material-palenight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akinyifo&theme=material-palenight)
+
+<div>
 <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@akinyiFO" frameborder="0"></iframe>
+</div>
