@@ -6,10 +6,8 @@ I am Fridah Akinyi Odhiambo. Professionally, I moved from being an Electrical an
 
 - 🌱 I am learning **Data Structures and Algorithms**.
 
-- 👯 I’m looking to collaborate on **AWS Certified Solutions Architect – Professional, AWS Certified DevOps Engineer – Professional, Google Cloud Professional Cloud Architect** and **Android Development** discussions.
-
-- 💬 Ask me about **AWS, GCP** and **Android Development**, though I am yet to catch up on Android Dev for the few years.
-
+- 👯 I’m looking to collaborate on anything applicable really.
+  
 - :zap:Fun fact: Your "god" is in your brain :thought_balloon:
 ### Social Network Presence 
 Find me as Android Grail in all my social media channels.
