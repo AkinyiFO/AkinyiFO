@@ -2,9 +2,17 @@
 I am Fridah Akinyi Odhiambo. Professionally, I moved from being an Electrical and Communications Engineering graduate to an Android Developer/Trainer and finally to AWS Champion - Authorised Instructor and Google Cloud Authorized Trainer. I am just laying it all out here to assure you beyond reasonable doubt that there is a high probability that the next time you are back here, I could be something else that is even more amazing than the last.
 
 ✨ :balloon: ✨
-- 🔭 I’m currently working on polishing my skills in **Linux, Git, MySQL, Programming Language Fundamentals: Java, Python, js, Kotlin, Frontend: html, css, js, Backend: Flask API, Mobile: Android Development, and Cloud: Amazon Web Services (AWS), Google           Cloud Platform (GCP)**.
-  
-- 🌱 In future, I intend to learning **Data Structures and Algorithms in Python, and practice what I learnt in Leetcode**.
+- 🔭 I’m currently working on polishing my skills in:
+  -  **Linux**
+  -  **Git**
+  -  **MySQL**
+  -  **Programming Language Fundamentals: Java, Python, js, Kotlin**
+  -  **Frontend: html, css, js**
+  -  **Backend: Flask API**
+  -  **Mobile: Android Development**
+  -  **Cloud: Amazon Web Services (AWS)**
+  -  **Google Cloud Platform (GCP)**.
+- 🌱 In future, I intend to learning **Data Structures and Algorithms in Python** and practice what I learnt in **Leetcode**.
 
 - 👯 I’m looking to collaborate on anything applicable really.
   
@@ -22,10 +30,12 @@ I am Fridah Akinyi Odhiambo. Professionally, I moved from being an Electrical an
 -[Website](https://androidgrail.com/)
 
 ### Languages/ Technologies
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
+<p float="left">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
+</p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
