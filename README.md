@@ -5,13 +5,13 @@ I am Fridah Akinyi Odhiambo. Professionally, I moved from being an Electrical an
 - 🔭 I’m currently working on polishing my skills in:
   -  **Linux**
   -  **Git**
-  -  **MySQL**
   -  **Programming Language Fundamentals: Java, Python, js, Kotlin**
   -  **Frontend: html, css, js**
   -  **Backend: Flask API**
+  -  **Database: MySQL**
   -  **Mobile: Android Development**
   -  **Cloud: Amazon Web Services (AWS)**
-  -  **Google Cloud Platform (GCP)**.
+            **Google Cloud Platform (GCP)**.
 - 🌱 In future, I intend to learning **Data Structures and Algorithms in Python** and practice what I learnt in **Leetcode**.
 
 - 👯 I’m looking to collaborate on anything applicable really.
