@@ -10,8 +10,7 @@ I am Fridah Akinyi Odhiambo. Professionally, I moved from being an Electrical an
   -  **Backend: Flask API**
   -  **Database: MySQL**
   -  **Mobile: Android Development**
-  -  **Cloud: Amazon Web Services (AWS)**
-            **Google Cloud Platform (GCP)**.
+  -  **Cloud: Amazon Web Services (AWS), and Google Cloud Platform (GCP)**.
 - 🌱 In future, I intend to learning **Data Structures and Algorithms in Python** and practice what I learnt in **Leetcode**.
 
 - 👯 I’m looking to collaborate on anything applicable really.
