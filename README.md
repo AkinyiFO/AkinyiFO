@@ -1,5 +1,5 @@
 ### This update is long overdue. Hello! Nice seeing you here! 👋 
-I am Fridah Akinyi Odhiambo. Professionally, my path is as followed:
+I am Fridah Akinyi Odhiambo. Professionally, my path is as follows:
 1. Electrical and Communications Engineering graduate
 2. Android Developer
 3. Android Developement & Java Trainer
