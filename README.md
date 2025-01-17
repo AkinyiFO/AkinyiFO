@@ -1,5 +1,13 @@
 ### This update is long overdue. Hello! Nice seeing you here! 👋 
-I am Fridah Akinyi Odhiambo. Professionally, I moved from being an Electrical and Communications Engineering graduate to an Android Developer/Trainer and finally to AWS Champion - Authorised Instructor and Google Cloud Authorized Trainer. I am just laying it all out here to assure you beyond reasonable doubt that there is a high probability that the next time you are back here, I could be something else that is even more amazing than the last.
+I am Fridah Akinyi Odhiambo. Professionally, my path is as followed:
+1. Electrical and Communications Engineering graduate
+2. Android Developer
+3. Android Developement & Java Trainer
+4. AWS Authorised Instructor
+5. AWS Champion - Authorised Instructor
+6. Google Cloud Authorized Trainer
+I am just laying it all out here to assure you beyond reasonable doubt that there is a high probability that the next time you are back here, The list could be longer and more amazing than the last.
+This is just professionally by the way. There are several unlisted hobbies in between, plus, I do hover around the professions back and forth.
 
 ✨ :balloon: ✨
 - 🔭 I’m currently working on polishing my skills in:
@@ -11,7 +19,7 @@ I am Fridah Akinyi Odhiambo. Professionally, I moved from being an Electrical an
   -  **Database: MySQL**
   -  **Mobile: Android Development**
   -  **Cloud: Amazon Web Services (AWS), and Google Cloud Platform (GCP)**.
-- 🌱 In future, I intend to learning **Data Structures and Algorithms in Python** and practice what I learnt in **Leetcode**.
+- 🌱 In future, I intend to learning **Data Structures and Algorithms** and practice what I learn in **Leetcode**.
 
 - 👯 I’m looking to collaborate on anything applicable really.
   
